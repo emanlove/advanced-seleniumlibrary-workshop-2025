@@ -49,13 +49,13 @@ to more advanced topics.
 Install Chrome/Chromium, chromedriver, Firefox, geckodriver and
 [uv](https://docs.astral.sh/uv/getting-started/installation/) and run `uv sync`.
 It will install Python, create a virtual environment and install all the dependencies.
-Validate your setup by running `uv run robot 0A_Introduction/SetupTest.robot`.
+Validate your setup by running `uv run robot 00-Introduction/SetupTest.robot`.
 
 ### About these exercises
 
 The exercises are our guide through the topics. They are separated in into major categories (i.e. the 30s cover Javascript)
 with individual topics or "exercises" within. Each exercise has a README which states the purpose and learning objectives
-for that particular exercise. 
+for that particular exercise.
 
 ### About the Instructors
 
