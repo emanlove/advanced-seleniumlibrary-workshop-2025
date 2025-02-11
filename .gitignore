@@ -1,5 +1,7 @@
 # Virtual environments
 .venv
+# Filesystem metadata
+.DS_Store
 # Driverlogs
 geckodriver*.log
 chromedriver.log
