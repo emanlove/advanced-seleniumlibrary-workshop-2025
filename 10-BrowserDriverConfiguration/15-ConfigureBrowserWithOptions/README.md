@@ -21,3 +21,4 @@ Common browser options - https://www.selenium.dev/documentation/webdriver/driver
 Browser specific options - https://www.selenium.dev/documentation/webdriver/browsers/
 Chrome options within Selenium API - https://www.selenium.dev/selenium/docs/api/py/webdriver_chrome/selenium.webdriver.chrome.options.html#module-selenium.webdriver.chrome.options
 Chrome options within ChromeDriver docs - https://developer.chrome.com/docs/chromedriver/capabilities
+Chrome command line switches - https://peter.sh/experiments/chromium-command-line-switches/

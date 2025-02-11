@@ -15,4 +15,6 @@ Learn what the page load strategy does and does not wait for.
 
 #### Resources:
 
+Selenium's page load strategy documentation - https://www.selenium.dev/documentation/webdriver/drivers/options/#pageloadstrategy
+
 Documentation on lazy loading javascript - https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading

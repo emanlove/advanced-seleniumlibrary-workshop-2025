@@ -19,5 +19,3 @@ Using the `Open Browser` keyword and get the chrome driver log
 Get the Gecko (Firefox) driver log at debug logging level
 
 *Extra* extra credit - Get the un-truncated gecko driver logs
-
-#### Resources:

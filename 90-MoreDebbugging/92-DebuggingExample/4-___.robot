@@ -1,5 +1,7 @@
 *** Settings ***
 Library  SeleniumLibrary
+Resource  util.resource
+
 
 *** Test Cases ***
 Press Keys To Delete Text

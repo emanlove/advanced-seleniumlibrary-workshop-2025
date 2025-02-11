@@ -11,7 +11,7 @@ Preview of the upcoming "BiDirectional" features
 #### Challenge:
 * Enable BiDi support
 * Describe something that you can do with BiDi that you couldn't before, or something that becomes much easier with BiDi
-* **Extra** credit: Add a console message handler to the driver and save the messages to a list variable. Tip: `grep --recursive` or your IDE's "Go To Definition" or similar are your friends.
+* **Extra** credit: Add a console message handler to the driver and save the messages to a list variable.
 
 #### Resources:
 - [Selenium's overview of BiDi](https://www.selenium.dev/documentation/webdriver/bidi/)

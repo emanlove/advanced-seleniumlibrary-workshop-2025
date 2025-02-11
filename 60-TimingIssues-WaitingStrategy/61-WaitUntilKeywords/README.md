@@ -12,5 +12,6 @@ Review the various "Wait Until ..." library keywords
 - Trainees will be able show within the log file how long did the library wait
 
 #### Challenge:
+Wait for the element with id "disabled" to be bomce enabled using of the "Wait Until .." keywords
 
 #### Resources:

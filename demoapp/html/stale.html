@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><title> Stale elements</title></head>
+    <body>
+        <div id="parent">
+            This is the parent element
+            <div id="child">This is the child element</div>
+        </div>
+        <br>
+        <button type="button" id="detach-child" onclick="parent.removeChild(child)">
+            Detach child
+        </button>
+        <button type="button" id="attach-child" onclick="parent.appendChild(child)">
+            Attach child
+        </button>
+
+        <script>
+            var parent = document.getElementById("parent")
+            var child = document.getElementById("child")
+        </script>
+
+    </body>

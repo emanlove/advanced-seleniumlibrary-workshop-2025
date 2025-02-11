@@ -18,3 +18,5 @@ Extra credit: Prove that the menu was there, no longer there, and back again
 #### Resources:
 
 One solution to using javascript to hide elements - https://stackoverflow.com/questions/6242976/javascript-hide-show-element
+
+MDN - Get Element By ID - JavaScript Function - https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById

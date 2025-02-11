@@ -9,9 +9,8 @@ The purpose of this exercise is to learn about configuring the browser using opt
   of the `Open Browser` keyword
 
 #### Challenge:
-Open the conference webpage within Chrome version 114
-
-Extra Credit: Open the Extended Support Release of Firefox
+- Open the conference webpage within Chrome version 114
+- Open the Extended Support Release of Firefox
 
 #### Resources:
 
